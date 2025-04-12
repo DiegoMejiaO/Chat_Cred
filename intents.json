@@ -30,7 +30,10 @@
 					"Buenos dias, Me ayudan con unas centrales porfa PT:",
 					"Buenos dias compañeros me podrian ayudar por favor con 2 Cifines de 2 clientes PPT",
 					"hola buen dia desde ayer no me pasa de la simulacion, hay algun inconveniente",
-					"Buenas tardes, en el momento estoy simulando un credito por incluirtec y aparece que solidarisa aportes, mi pregunta es, eso lo quitan desde el area de creditos o ustedes me pueden colaborar"],
+					"Buenas tardes, en el momento estoy simulando un credito por incluirtec y aparece que solidarisa aportes, mi pregunta es, eso lo quitan desde el area de creditos o ustedes me pueden colaborar",
+					"Hola, se puede cambiar la linea a libre inversion? o se puede hacer otra solicitud?",
+					"para cambiarle la linea a un credito por incluirtec y el monto solicitado como lo hago?",
+					"cree una solicitud de credito por incluirtec me quedo libre inversion y la linea ofrecida fue crediaportes, que puedo hacer ?"],
         "responses": ["Para desbloquear tu usuariode Incluirtec debes enviar el tipo y numero de documento al chat",
                      "Para solicitudes de crédito de los empleados CFA continúan por WorkManager",
 					 "Si tiene ingresos adicionales a su actividad principal como asalariado se se debe verificar, teniendo en cuenta la politica de verificación de referencias de colocación",
@@ -38,7 +41,9 @@
 					 "Por favor valida la información del flujo: Consulta Antecedentes y Delitos de Lavado de Activos",
 					 "Para realizar la consulta en centrales enviar por favor el numero de PPT y la autorizaci´n de la consulta a centrales al chat",
 					 "Seria que valides de que tengas buena conexión a Internet, una sugerencia es que borres cache",
-					 "En la obligación se le actualiza y no le debe seguir apareciendo"]
+					 "En la obligación se le actualiza y no le debe seguir apareciendo",
+					 "Se debe subir una nueva solicitud, ya que el aplicativo no permite realizar cambio de linea",
+					 "Se debe subir una nueva solicitud, ya que el aplicativo no permite realizar cambio de linea, solo el monto solicitado y el plazo"]
     },    
     {
         "tag": "Credito",

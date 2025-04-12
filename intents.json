@@ -26,12 +26,19 @@
                     "si se va a solicitar crédito a un empleado CFA, se puede radicar igual por Incluirtec ?",
 					"una consulta, un tramite enviado por incluirtec requiere verificación por parte de la oficina ?",
 					"Cual son los documentos soporte que se le piden a un transportador?",
-					"Hola, tengo la pagina de los antecedentes caida, que debo hacer"],
+					"Hola, tengo la pagina de los antecedentes caida, que debo hacer",
+					"Buenos dias, Me ayudan con unas centrales porfa PT:",
+					"Buenos dias compañeros me podrian ayudar por favor con 2 Cifines de 2 clientes PPT",
+					"hola buen dia desde ayer no me pasa de la simulacion, hay algun inconveniente",
+					"Buenas tardes, en el momento estoy simulando un credito por incluirtec y aparece que solidarisa aportes, mi pregunta es, eso lo quitan desde el area de creditos o ustedes me pueden colaborar"],
         "responses": ["Para desbloquear tu usuariode Incluirtec debes enviar el tipo y numero de documento al chat",
                      "Para solicitudes de crédito de los empleados CFA continúan por WorkManager",
 					 "Si tiene ingresos adicionales a su actividad principal como asalariado se se debe verificar, teniendo en cuenta la politica de verificación de referencias de colocación",
 					 "Puedes consultar en el manual SARC en item Exigencias de documentación de crédito - Persona Natural (Solicitudes Y Codeudores)",
-					 "Por favor valida la información del flujo: Consulta Antecedentes y Delitos de Lavado de Activos"]
+					 "Por favor valida la información del flujo: Consulta Antecedentes y Delitos de Lavado de Activos",
+					 "Para realizar la consulta en centrales enviar por favor el numero de PPT y la autorizaci´n de la consulta a centrales al chat",
+					 "Seria que valides de que tengas buena conexión a Internet, una sugerencia es que borres cache",
+					 "En la obligación se le actualiza y no le debe seguir apareciendo"]
     },    
     {
         "tag": "Credito",

@@ -21,8 +21,17 @@
                     "Hola buenos dias para todos.. por favor me colaboran",
                     "Hola buenos dias, me pueden colaborar desbloqueando incluirtec cc",
                     "compañero me ayudas con mi usuario de incluirtec",
-                    "Hola me ayudan a desbloquearme porfa"],
-        "responses": ["Para desbloquear tu usuariode Incluirtec debes enviar el tipo y numero de documento al chat"]
+                    "Hola me ayudan a desbloquearme porfa",
+                    "Hola, me ayudan por favor, me sale este mensaje Tu usuario se ha bloqueado por que tienes una sesión activa en otra pestaña en e otro dispositivo",
+                    "si se va a solicitar crédito a un empleado CFA, se puede radicar igual por Incluirtec ?",
+					"una consulta, un tramite enviado por incluirtec requiere verificación por parte de la oficina ?",
+					"Cual son los documentos soporte que se le piden a un transportador?",
+					"Hola, tengo la pagina de los antecedentes caida, que debo hacer"],
+        "responses": ["Para desbloquear tu usuariode Incluirtec debes enviar el tipo y numero de documento al chat",
+                     "Para solicitudes de crédito de los empleados CFA continúan por WorkManager",
+					 "Si tiene ingresos adicionales a su actividad principal como asalariado se se debe verificar, teniendo en cuenta la politica de verificación de referencias de colocación",
+					 "Puedes consultar en el manual SARC en item Exigencias de documentación de crédito - Persona Natural (Solicitudes Y Codeudores)",
+					 "Por favor valida la información del flujo: Consulta Antecedentes y Delitos de Lavado de Activos"]
     },    
     {
         "tag": "Credito",

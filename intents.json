@@ -1,0 +1,27 @@
+{"intents":[
+    {
+        "tag": "saludo",
+        "patterns": ["hola", "qué tal", "cómo estás", "saludos"],
+        "responses": ["Hola! en que proceso te puedo ayudar?: [Incluiertec, WorkManager, Politicas, Requesitos, Perfiles de Clientes]"]
+    },
+    {
+        "tag": "Incluiertec",
+        "patterns": ["me pueden por favor colaborar que tengo mi usuario bloqueado",
+                    "me colaboras por fa con el desbloqueo de mi usuario en incluirtec",
+                    "Buenas tardes, Por favor me ayudan con el bloqueo de usuario de la plataforma Incluirtec. Usuario:"],
+        "responses": ["Para desbloquear tu usuariode Incluirtec debes enviar el tipo y numero de documento al chat"]
+    },
+    {
+        "tag": "proceso",
+        "patterns": ["cómo es tu nombre", "cómo te llamas"],
+        "responses": ["Me llamo Dimo", "Mi nombre es Dimo"]
+    },
+    {
+        "tag": "Credito",
+        "patterns": ["Que es un Crédito", "Que es un interes", "Que es ruta rapida"],
+        "responses": ["Es un dinero que se otorga", "Es el porcentaje que se cobra en el credito", 
+                      "Estudio de credito con menos pasos"]
+    }
+]
+
+}
